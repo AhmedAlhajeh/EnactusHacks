@@ -19,11 +19,11 @@
   },
   "homepage": "https://github.com/echang49/EnactusHacks#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.4",
     "connect-mongo": "^3.2.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.22.0",
     "express-zip": "^3.0.0",
     "mongoose": "^5.10.10",
     "multer": "^1.4.2",
